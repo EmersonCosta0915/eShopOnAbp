@@ -6,10 +6,6 @@ See [the blog post](https://blog.abp.io/abp/Introducing-the-eShopOnAbp-Project) 
 
 Live demo 👉 https://www.eshoponabp.com/
 
-## Issues
-
-Please open issues on the main GitHub repository: https://github.com/abpframework/abp/issues
-
 ## How to Run?
 
 You can run it in Visual Studio or use [Microsoft Tye](https://github.com/dotnet/tye). Tye is a developer tool that makes developing, testing, and deploying micro-services and distributed applications easier.
