@@ -91,7 +91,3 @@ Generating a new certificate will fix that issue. To generate a new one,
 ## Current Architecture
 
 ![eSopOnAbp Phase 1](/docs/roadmap/Phase_1.png)
-
-## ABP Community Talks
-
-We've organized a meetup related to this solution. You can watch it here: https://community.abp.io/events/microservice-development-iv7d46ov
